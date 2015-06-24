@@ -2,7 +2,7 @@
 Who needs all of [Bootstrap](http://getbootstrap.com/)? A lot of times a project only needs its grid. Here is the grid available in CSS and Less.
 
 # What is this?
-Included is a breakdown of Bootstrap. The [Bootstrap mixins](https://github.com/twbs/bootstrap/tree/master/less/mixins) and [Bootstrap components](https://github.com/twbs/bootstrap/tree/master/less) have been taken out to simplify utilizing the Bootstrap grid.
+Included is a breakdown of Bootstrap. The [Bootstrap mixins](https://github.com/twbs/bootstrap/tree/master/less/mixins) and [Bootstrap components](https://github.com/twbs/bootstrap/tree/master/less) have been extracted to simplify utilizing the Bootstrap grid.
  
 # Transpiling Less
 If you need to work with this in more depth the Less files are included along with a [Grunt file](http://gruntjs.com/). Running `grunt` from the a terminal will transpile all the Less files into CSS. 
