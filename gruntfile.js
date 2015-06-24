@@ -25,13 +25,25 @@ module.exports = function(grunt) {
                 ext: '.css'
             },
             /**
+             * Minified grid to utilize
+             */
+            grid: {
+                options: {
+                    compress: true
+                },
+                files: {
+                    'src/css/less-component/bootstrap-grid.min.css': 'src/css/less-component/bootstrap-grid.less'
+                }
+            },
+            /**
              * Creates a finalized complete CSS for development.
              *   This brings in all the bootstrap components and generates one CSS file to work with.
              */
             main: {
-                options: {
-                    compress: true
-                },
+                //Compress if you would like to
+                //options: {
+                //    compress: true
+                //},
                 files: {
                     'src/css/main.css': 'src/css/main.less'
                 }
