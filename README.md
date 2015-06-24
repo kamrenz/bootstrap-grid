@@ -7,8 +7,8 @@ Included is a breakdown of Bootstrap. The [Bootstrap mixins](https://github.com/
 ## What you get
 1. Basic application setup for utilizing the Bootstrap grid with plain CSS
     * Start styling your application in src/css/main.css
-2. Basic application setup for utilizing Bootstrap grid via Less and Grunt
-    * See below to start grunt watching
+2. Basic application setup for utilizing Bootstrap grid via [Less](http://lesscss.org/) and Grunt
+    * See below to start grunt watching 
     * Start styling your application in src/css/main.less
 3. A minified version of the CSS for the bootstrap grid 
         * Download the [bootstrap-grid.min.css](https://github.com/kamrenz/bootstrap-grid/blob/master/src/css/less-component/bootstrap-grid.min.css)
