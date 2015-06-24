@@ -28,7 +28,6 @@ module.exports = function(grunt) {
              * Creates a finalized complete CSS for development.
              *   This brings in all the bootstrap components and generates one CSS file to work with.
              */
-
             main: {
                 options: {
                     compress: true
