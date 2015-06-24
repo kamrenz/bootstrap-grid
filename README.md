@@ -26,3 +26,5 @@ Also included is a [Grunt watch](https://github.com/gruntjs/grunt-contrib-watch)
 3. Globally install [grunt-cli](http://gruntjs.com/using-the-cli)
     * Type `npm install -g grunt-cli` from the terminal for installation
     * Now typing `grunt` from the terminal will run Grunt tasks
+    
+Thanks to [DevelopIntelligence](http://www.developintelligence.com/) for the resources!
