@@ -1,0 +1,29 @@
+{
+  "name": "boostrapt-gir",
+  "version": "0.0.1",
+  "description": "The stripped out Bootstrap grid",
+  "main": "server.js",
+  "dependencies": {
+    "bootstrap": "^3.3.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.2.0",
+    "time-grunt": "^1.2.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamrenz/bootstrap-grid.git"
+  },
+  "author": "Kamren Zorgdrager <kamrenz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamrenz/bootstrap-grid/issues"
+  },
+  "homepage": "https://github.com/kamrenz/bootstrap-grid"
+}
